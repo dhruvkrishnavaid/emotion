@@ -1,5 +1,11 @@
 # @emotion/jest
 
+## 11.10.5
+
+### Patch Changes
+
+- [#2884](https://github.com/emotion-js/emotion/pull/2884) [`da1e68e8`](https://github.com/emotion-js/emotion/commit/da1e68e829c53114dc1aab79b09e32a37d731fcf) Thanks [@billyjanitsch](https://github.com/billyjanitsch)! - Fix a dependency conflict when `@emotion/jest` was installed alongside `@types/jest@^29`.
+
 ## 11.10.0
 
 ### Minor Changes
